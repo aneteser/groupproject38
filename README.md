@@ -11,10 +11,10 @@ Fork the repository.
 - Please ensure your code adheres to the project's coding standards and include any tests if applicable.
 
 Team Members
-Siiri
-Lilian
-Mari
-Anete
+- Siiri
+- Lilian
+- Mari
+- Anete
 
 
 Thank you for visiting our project repository. For any questions or additional information, please contact one of our team members.
